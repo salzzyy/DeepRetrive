@@ -1,0 +1,9 @@
+
+pdfplumber
+langchain
+langchain_community
+langchain_core
+langchain_experimental
+faiss-cpu
+sentence-transformers
+tf-keras
